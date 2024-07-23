@@ -36,4 +36,5 @@ main {
 .tractor-details {
     flex: 1;
     text-align: left;
-    font-size: 0.9em
+    font-size: 0.9em;
+}
