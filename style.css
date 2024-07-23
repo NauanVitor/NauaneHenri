@@ -34,5 +34,6 @@ main {
 }
 
 .tractor-details {
+    flex: 1;
     text-align: left;
 }
