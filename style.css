@@ -19,7 +19,6 @@ main {
 
 .tractor-info {
     display: flex;
-    flex-direction: column;
     align-items: center;
     border: 1px solid #ccc;
     padding: 20px;
@@ -28,12 +27,12 @@ main {
 }
 
 .tractor-image {
-    width: 100%;
+    width: 50%;
     max-width: 400px;
     height: auto;
+    margin-right: 20px;
 }
 
 .tractor-details {
-    text-align: center;
-    margin-top: 10px;
+    text-align: left;
 }
